@@ -1,2 +1,2 @@
 # CNN
-Creation of the CNN architecture from scratch
+Creation of the CNN architecture from scratch, the idea of this project is show how the inner architecture works, has been tested and the results are the same of the one that you can obtain using PyTorch, the project contains just two files: cnn_scratch.py that contains the code of the CNN and test_error.py that contains the code that test if the cnn from scratch and the cnn from pytorch get the same results
