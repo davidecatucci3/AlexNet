@@ -1,6 +1,5 @@
 import torch.nn.functional as F
 import torch.nn as nn
-import numpy as np
 import torch
 
 from cnn_scratch import Conv2D, MaxPool2D, FNN, relu, flatten
